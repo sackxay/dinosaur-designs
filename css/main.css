@@ -1,7 +1,7 @@
 html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
-  line0height: 1.5;
+  line-height: 1.5;
 }
 
 h1, h2, h3 {
@@ -24,7 +24,7 @@ figcaption {
 }
 
 nav {
-  font-size: 1.125rem
+  font-size: 1.125rem;
   font-weight: bold;
 }
 
